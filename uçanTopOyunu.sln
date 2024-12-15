@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uçanTopOyunu", "uçanTopOyunu\uçanTopOyunu.csproj", "{30594C34-F33D-4A6C-AC0A-292C14B088FC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "topOyunu2", "topOyunu2\topOyunu2.vdproj", "{A8FBD68E-4F3C-4184-A5CF-3CA5EF5144AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30594C34-F33D-4A6C-AC0A-292C14B088FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30594C34-F33D-4A6C-AC0A-292C14B088FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30594C34-F33D-4A6C-AC0A-292C14B088FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30594C34-F33D-4A6C-AC0A-292C14B088FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FBD68E-4F3C-4184-A5CF-3CA5EF5144AD}.Debug|Any CPU.ActiveCfg = Debug
+		{A8FBD68E-4F3C-4184-A5CF-3CA5EF5144AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
